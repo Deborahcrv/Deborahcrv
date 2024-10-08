@@ -1,4 +1,4 @@
-## Olá, meu nome é Déborah Rodrigues, sou economista, doutoranda em economia e atuo como analista de dados
+## Olá, sou Déborah Rodrigues, economista e doutoranda em economia. Atuo como cientista de dados, com foco em análises relacionadas à educação e criminalidade.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="deb-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
